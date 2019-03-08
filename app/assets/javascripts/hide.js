@@ -3,4 +3,4 @@ function hideWhenClicked(event) {
   target.hide();
 }
 
-$('#hide_me').click(hideWhenClick);
+$('#hide_me').click(hideWhenClick());
