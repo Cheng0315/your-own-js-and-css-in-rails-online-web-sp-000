@@ -1,3 +1,3 @@
 function hideWhenClicked() {
-  document.getElementById('hide-this').style.display = 'none';
+  return document.getElementById('hide-this').style.display = 'none';
 }
