@@ -1,3 +1,3 @@
 function hideWhenClicked() {
-  $('#hide_me').hide();
+  $.('#hide_me').hide();
 }
